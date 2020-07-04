@@ -2,4 +2,5 @@
 
 git clone https://github.com/quinngroup/ornet
 cd ornet
+pip install -r requirements.txt
 pip install .
