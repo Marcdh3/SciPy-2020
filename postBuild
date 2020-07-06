@@ -6,4 +6,4 @@ pip install -r requirements.txt
 pip install .
 mkdir -p ../outputs ../outputs/distances ../outputs/downsampled ../outputs/eigendata \
     ../outputs/intermediates  ../outputs/normalized  ../outputs/plots  \
-    ../outputs/singles ../outputs/patial-tracking
+    ../outputs/singles ../outputs/spatial-tracking
