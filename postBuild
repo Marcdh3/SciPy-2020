@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #git clone https://github.com/quinngroup/ornet
-git clone https://github.com/quinngroup/ornet/tree/eigenspectrum
+git clone -b eigenspectrum https://github.com/quinngroup/ornet
 cd ornet
 pip install -r requirements.txt
 pip install .
